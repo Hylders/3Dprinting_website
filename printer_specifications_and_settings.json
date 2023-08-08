@@ -1,0 +1,26 @@
+{
+	"printerName":"X1-Carbon",
+	"manufacturerName":"Bambu Lab",
+	"3dPrintingTechnologyName":"FFF/FDM",
+	"maxPowerConsumption":{"value":1000,"unit":"w"},
+	"buildVolume":[
+		{"X":256,"unit":"mm"},
+		{"Y":256,"unit":"mm"},
+		{"Z":256,"unit":"mm"}],
+	"averagePrintingSpeed":{"value":250,"unit":"mm/s"},
+	"maxAcceleration":{"value":20,"unit":"m/s²"},
+	"nozzleHoleDiameter":{"value":0.4,"unit":"mm"},
+	"layerHeights":[
+		{"minValue":0.1,"unit":"mm"},
+		{"maxValue":0.3,"unit":"mm"}],
+	"supportedMaterials":[
+		{"material":"PLA"},
+		{"material":"PETG"},
+		{"material":"TPU"},
+		{"material":"ABS"},
+		{"material":"ASA"},
+		{"material":"PVA"},
+		{"material":"PET"},
+		{"material":"PA"},
+		{"material":"PC"}]
+}
