@@ -4,9 +4,9 @@
 	"3dPrintingTechnologyName":"FFF/FDM",
 	"maxPowerConsumption":{"value":1000,"unit":"W"},
 	"buildVolume":[
-		{"X":256},
-		{"Y":256},
-		{"Z":256},
+		{"x":256},
+		{"y":256},
+		{"z":256},
 		{"units":"mm"}],
 	"averagePrintingSpeed":{"value":250,"unit":"mm/s"},
 	"maxAcceleration":{"value":20,"unit":"m/s²"},
