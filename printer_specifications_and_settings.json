@@ -5,8 +5,8 @@
 	"maxPowerConsumption":{"value":1000,"unit":"w"},
 	"buildVolume":[
 		{"X":256,"unit":"mm"},
-		{"Y":256,"unit":"mm"},
-		{"Z":256,"unit":"mm"}],
+		{"Y":257,"unit":"mm"},
+		{"Z":258,"unit":"mm"}],
 	"averagePrintingSpeed":{"value":250,"unit":"mm/s"},
 	"maxAcceleration":{"value":20,"unit":"m/s²"},
 	"nozzleHoleDiameter":{"value":0.4,"unit":"mm"},
