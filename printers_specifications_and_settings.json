@@ -8,6 +8,7 @@
 		{"y":256},
 		{"z":256},
 		{"units":"mm"}],
+	"buildPlateSafetyDistance":{"value":5,"unit":"mm"},
 	"averagePrintingSpeed":{"value":250,"unit":"mm/s"},
 	"maxAcceleration":{"value":20,"unit":"m/s²"},
 	"nozzleHoleDiameter":{"value":0.4,"unit":"mm"},
@@ -24,5 +25,12 @@
 		{"material":"PVA"},
 		{"material":"PET"},
 		{"material":"PA"},
-		{"material":"PC"}]
+		{"material":"PC"}],
+	"supportedFileFormats":[
+		{"extension":".stl"},
+		{"extension":".step"},
+		{"extension":".stp"},
+		{"extension":".3mf"},
+		{"extension":".amf"},
+		{"extension":".obj"}]
 }
